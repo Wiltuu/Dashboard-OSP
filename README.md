@@ -36,6 +36,5 @@ Projeto de finalidade exclusivamente acadêmica. Os dados são apresentados de f
 
 ---
 
-Desenvolvido por **Wilton Gabriel Nascimento Fonseca**  
 Universidade de Brasília (UnB) – Ciências Contábeis  
 Disciplina: Orçamento Público
